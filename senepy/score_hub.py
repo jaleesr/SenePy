@@ -1,6 +1,6 @@
 import numpy as np
 import pandas as pd
-
+from tqdm import tqdm
 
 def score_hub(adata,
               hub,
@@ -8,7 +8,8 @@ def score_hub(adata,
               ctrl_size = 50,
               binarize = True,
               importance = True,
-              translator = None):
+              translator = None,
+              verbose = True):
     
     '''
     Takes anndata and a hub list and returns a score for each cell
@@ -57,7 +58,7 @@ def score_hub(adata,
     
     genes_not_in_adata = [x[0] for x in hub if x[0] not in var_names]
     
-    if len(genes_not_in_adata) > 0:
+    if len(genes_not_in_adata) > 0 and verbose:
         print(f'{len(hub)-len(genes_not_in_adata)}/{len(hub)}({round((len(hub)-len(genes_not_in_adata))/len(hub)*100,2)}%) genes present in data')
         if translator is None:
             print('###################')
@@ -78,8 +79,11 @@ def score_hub(adata,
         hub = hub_cpy
     
         genes_not_in_adata = [x[0] for x in hub if x[0] not in var_names]
-        print(f'{len(hub)-len(genes_not_in_adata)}/{len(hub)}({round((len(hub)-len(genes_not_in_adata))/len(hub)*100,2)}%) genes present in data after translation')
-        print('Still not present:', genes_not_in_adata)
+        
+        
+        if verbose:
+            print(f'{len(hub)-len(genes_not_in_adata)}/{len(hub)}({round((len(hub)-len(genes_not_in_adata))/len(hub)*100,2)}%) genes present in data after translation')
+            print('Still not present:', genes_not_in_adata)
     
     
     
@@ -167,6 +171,102 @@ def score_hub(adata,
 
     
     return score.tolist()
+    
+    
+    
+    
+    
+def score_all_cells(adata,
+              hub,
+              identifiers = None,
+              n_bins = 25, 
+              ctrl_size = 50,
+              binarize = True,
+              importance = True,
+              translator = None):
+    
+    
+    
+    '''
+    Scores all cell types. Takes anndata, a hub list, and .obs identifier columns. Breaks
+    anndata into chunks based on identifiers then scores them individiaully. Returns a
+    score list for all cells.
+    
+    adata: anndata object
+    
+    hub: list
+        list of tuples: [(gene, importance), (gene, importance), ... ]
+        
+    identifiers: list
+        list of columns in .obs to split the data on. Works with multiple:
+        e.g., ['tissue', 'cell_type'] would seperate lung fibroblasts from heart
+        fibroblasts
+        
+    n_bins: int
+        number of expression bins to split the genes by. The expression for each gene is 
+        averaged then they are ordered and split into n bins. The background genes are
+        selected from the same bins the input genes fall in.
+        
+    ctrl_size: int
+        number of background genes for each input gene
+        
+    binarize: bool
+        whether to binarize the data after backround gene selection. 1 if the gene is
+        expressed and 0 if it is not.
+        
+    importance: bool
+        whether to use the importance associated with each gene. Importance may be less
+        relevant if the cells you are testing are much different from the hub cells.
+        
+    translator: translator object
+        optional translator object which will map the hub genes to have better overlap
+        with your study genes. See senepy.translator
+        
+    
+    '''
+    
+    if identifiers is None and isinstance(identifiers, list):
+        raise ValueError("Provide cell_type identifiers (column names) from the .obs dataframe as a list")
+        
+    #cdata = adata.copy()
+    
+    var_names = adata.var_names
+    
+    genes_not_in_adata = [x[0] for x in hub if x[0] not in var_names]
+   
+            
+    unique_combos = adata.obs[identifiers].drop_duplicates()
+            
+    score_d = {}
+    to_be_verbose = True
+    for idents in tqdm(unique_combos.values):
+        
+        #subset adata based on identifiers. For each id, keep only those
+        c_sub = adata.copy()
+        for x, ident in enumerate(identifiers):
+            c_sub = c_sub[c_sub.obs[ident] == idents[x]]
+        
+        
+        
+        res = score_hub(c_sub, hub, n_bins = n_bins, ctrl_size = ctrl_size,
+                  binarize = binarize, importance = importance,
+              translator = translator, verbose = to_be_verbose)
+            
+        score_d = score_d | dict(zip(c_sub.obs.index, res))
+        
+        to_be_verbose = False
+        
+        
+    
+    return adata.obs.index.map(score_d).tolist()
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
