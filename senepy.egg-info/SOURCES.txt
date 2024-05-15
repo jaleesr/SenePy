@@ -18,4 +18,7 @@ senepy/data/6_HUMAN_HUBS_DICTIONARY_FILTERED.pickle
 senepy/data/6_HUMAN_HUBS_METADATA_FILTERED.pickle
 senepy/data/6_HUMAN_SIGS_DICTIONARY_FILTERED.pickle
 senepy/data/6_HUMAN_SIGS_METADATA_FILTERED.pickle
+senepy/data/Human_literature_markers.pickle
+senepy/data/Mouse_literature_markers.pickle
 senepy/data/mart_export.txt
+senepy/data/senGPT.txt
