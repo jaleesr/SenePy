@@ -41,10 +41,10 @@ Below are the main functions of senePy. Click on each function name to expand an
 <summary>load_hubs</summary>
 Initializes hub object that contains senePy gene signatures and metadata for either Human or Mouse.
 
-    ```python
-    import senepy as sp
-    hubs = sp.load_hubs(species = 'Mouse')
-    ```
+```python
+import senepy as sp
+hubs = sp.load_hubs(species = 'Mouse')
+```
 
 **hubs.metadata** is a dataframe of hubs. It contains which tissue and cell type the hub was derived from as well as the hub_num if there were multiple senescence hubs within that cell type.
 - size: number of genes in the hub
