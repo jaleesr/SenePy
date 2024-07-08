@@ -4,7 +4,8 @@
 
 **senePy** is a database of cell-type-specific gene signatures of cellular senescence packaged with a single-cell scoring tool. Gene signatures can be extracted and used in other analyses or senePy can be used directly to score the senescence state of single-cells based on their gene expression.
 
-<img src="images/senePy_abstract.png" alt="Abstract" width="400"/>
+<div align="center"><img src="images/senePy_abstract.png" alt="Abstract" width="600"/></div>
+
 
 Key functionality:
 - Database of 75 **mouse** and 65 **human** signatures of cellular senescence from 97 unique cell types
