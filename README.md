@@ -7,12 +7,17 @@
 <div align="center"><img src="images/senePy_abstract.png" alt="Abstract" width="600"/></div>
 
 
-Key functionality:
+
+## Key functionality:
 - Database of 75 **mouse** and 65 **human** signatures of cellular senescence from 97 unique cell types
 - Score single-cell transcirptomes based on their expression of select senescence signatures
 - Merge multiple signatures to make tissue-specific and universal signatures of senescence
 - Gene search and enrichment based on input gene list.
 - Integrates with AnnData and scanpy
+
+## Rquired inputs:
+- To browse and retrieve signatures: no input required
+- To score single cells: single-cell gene expression anndata object
 
 ## Installation Instructions
 
@@ -33,7 +38,7 @@ To install senePy, follow these steps:
 
 Here are some tutorials to help you get started with senePy:
 
-- [General Usage tutorial](notebooks/EXAMPLE_USAGE.ipynb)
+- [General Usage tutorial](EXAMPLE_USAGE.ipynb)
 
 ## Functions
 
