@@ -53,9 +53,9 @@ hubs = sp.load_hubs(species = 'Mouse')
 
 Example extraction of a gene signature:
 
-    ```python
-    extracted_sig = hubs.get_genes(('Lung', 'fibroblast', 1)) #tissue, cell, hub_num
-    ```
+```python
+extracted_sig = hubs.get_genes(('Lung', 'fibroblast', 1)) #tissue, cell, hub_num
+```
 This returns a list of genes that belong to the Lung-fibroblast-1 hub.
 
 </details>
@@ -66,23 +66,23 @@ Merges multiple signatures into one.
 
 Below we merge the Lung signatures into one new signature. By default, the union of all genes is taken. The respective value for each gene is the number of times that gene is found in the input signatures.
 
-    ```python
-    filt_meta = hubs.metadata[hubs.metadata.tissue == 'Lung']
-    hubs.merge_hubs(filt_meta, new_name = 'Lung_merged')
-    print(hubs.hubs['Lung_merged'])
-    ```
+```python
+filt_meta = hubs.metadata[hubs.metadata.tissue == 'Lung']
+hubs.merge_hubs(filt_meta, new_name = 'Lung_merged')
+print(hubs.hubs['Lung_merged'])
+```
 
 We can increase the threshold. For example, if we want to keep signatures that occur at least 2 times. This number will drastically reduce the number of genes in the resulting signature if only merging a handful of input signatures.
 
-    ```python
-    hubs.merge_hubs(filt_meta, new_name = 'Lung_merged_min2', overlap_threshold = 2)
-    ```
+```python
+hubs.merge_hubs(filt_meta, new_name = 'Lung_merged_min2', overlap_threshold = 2)
+```
 
 We can also calculate a threshold automatically using a permutation-based method. In the example below, we merge all signatures from all tissues and cells. We then use a 5% random chance threshold and remove all the genes that occur less than that number of times.
 
-    ```python
-    hubs.merge_hubs(hubs.metadata, new_name = 'universal', calculate_thresh = True)
-    ```
+```python
+hubs.merge_hubs(hubs.metadata, new_name = 'universal', calculate_thresh = True)
+```
 
 </details>
 
@@ -92,9 +92,9 @@ Function to find hubs that contain genes of interest. Returns a dataframe with r
 
 Example:
 
-    ```python
-    hubs.search_hubs_by_genes(['Cdkn2a', 'Cdkn1a', 'Il6', 'Cxcl13'])
-    ```
+```python
+hubs.search_hubs_by_genes(['Cdkn2a', 'Cdkn1a', 'Il6', 'Cxcl13'])
+```
 
 </details>
 
@@ -104,19 +104,19 @@ Function to score single-cell transcriptomes based on a given senescence gene si
 
 Example scoring and saving as a new column in anndata.obs. With default settings it does not matter if the data are normalized or raw. Just make sure they are not scaled:
 
-    ```python
-    adata.obs['sp_score'] = sp.score_hub(adata, hubs.hubs[('Lung', 'fibroblast', 1)])
-    ```
+```python
+adata.obs['sp_score'] = sp.score_hub(adata, hubs.hubs[('Lung', 'fibroblast', 1)])
+```
 
 score_hub contains multiple options that can affect the scoring method. By default, it weighs the importance of each gene based on the number of connections that gene has in the hub network. By default, it binarizes the data, which makes normalization and transformation optional. We can mimic default scanpy.score_genes by removing both of these parameters:
 
-    ```python
-    # make sure anndata is normalized and log transformed
-    # import scanpy as sc
-    # scanpy.pp.normalize_total(adata)
-    # sc.pp.log1p(adata)
-    adata.obs['sp_score'] = sp.score_hub(adata, hubs.hubs[('Lung', 'fibroblast', 1)], binarize=False, importance=False)
-    ```
+```python
+# make sure anndata is normalized and log transformed
+# import scanpy as sc
+# scanpy.pp.normalize_total(adata)
+# sc.pp.log1p(adata)
+adata.obs['sp_score'] = sp.score_hub(adata, hubs.hubs[('Lung', 'fibroblast', 1)], binarize=False, importance=False)
+```
 
 </details>
 
