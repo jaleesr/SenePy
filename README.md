@@ -37,6 +37,20 @@ To install senePy, follow these steps:
 Here are some tutorials to help you get started with senePy:
 
 - [General Usage tutorial](EXAMPLE_USAGE.ipynb)
+- [Scoring senescent hepatocytes](EXAMPLE_OIS_hepatocytes.ipynb)
+- [Using senePy in R](EXAMPLE_OIS_hepatocytes.md)
+
+## Universal signatures
+
+These are lists of genes that are overrepresented in the senePy signatures (FDR p-value < 0.01), i.e., genes that are more universal across cell types.
+- [Mouse](universal_signatures/Universal_mouse.txt)
+- [Human](universal_signatures/Universal_human.txt)
+
+However, there are no importance weights associated with them. If you want weights, get them from .merge_hubs():
+```python
+hubs = sp.load_hubs(species = 'Mouse', sig_type = 'cell_type')
+result = hubs.merge_hubs(hubs.metadata, calculate_thresh = True, p_thres = 0.01, new_name = 'Universal')
+```
 
 ## Functions
 
