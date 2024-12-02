@@ -1,0 +1,7 @@
+pandas>=1.0
+numpy>=1.17.0
+tqdm
+sympy>=1.12
+
+[scDRS]
+scdrs==1.0.2

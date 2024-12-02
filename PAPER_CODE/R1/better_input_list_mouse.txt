@@ -1,0 +1,62 @@
+Limb_Muscle.smooth muscle cell
+Myeloid.monocyte
+Large_Intestine.goblet cell
+Skin.epidermal cell
+Heart_and_Aorta.myocyte
+Lymphoid.T cell
+Lung.fibroblast
+Heart_and_Aorta.endocardial cell
+Thymus.thymocyte
+Diaphragm.mesenchymal stem cell
+Kidney.macrophage
+Skin.basal cell of epidermis
+Lung.alveolar macrophage
+Bladder.endothelial cell
+Heart_and_Aorta.fibroblast
+Liver.hepatocyte
+Liver.Kupffer cell
+Fat.endothelial cell
+Limb_Muscle.mesenchymal stem cell
+Lymphoid.naive T cell
+Trachea.fibroblast
+Tongue.keratinocyte
+Myeloid.granulocyte
+Myeloid.macrophage
+Brain.microglial cell
+Kidney.fenestrated cell
+Large_Intestine.secretory cell
+Kidney.collecting duct principal cell
+Skin.bulge keratinocyte
+Large_Intestine.crypt stem cell
+Bladder.bladder urothelial cell
+HSC.hematopoietic stem cell
+Pancreas.pancreatic ductal cell
+Kidney.epithelial cell of proximal tubule
+Myeloid.myloid progenitor
+Liver.endothelial cell of hepatic sinusoid
+Heart_and_Aorta.endothelial cell
+Kidney.distal convoluted tubule epithelial cell
+Brain.neuron
+Large_Intestine.enterocyte
+Lung.smooth muscle cell
+Large_Intestine.epithelial cell 
+Limb_Muscle.endothelial cell
+Limb_Muscle.skeletal muscle satellite cell
+Pancreas.pancreatic A cell
+Diaphragm.skeletal muscle satellite cell
+Trachea.macrophage
+Brain.endothelial cell
+Kidney.proximal convoluted tubule epithelial cell
+Pancreas.pancreatic B cell
+Tongue.basal cell 
+Limb_Muscle.macrophage
+Pancreas.pancreatic acinar cell
+Heart_and_Aorta.smooth muscle cell
+Lymphoid.B cell
+Kidney.podocyte
+Brain.oligodendrocyte
+Fat.mesenchymal stem cell
+Bladder.bladder cell
+Trachea.basal cell 
+Lymphoid.NK cell
+Kidney.Henle thick ascending limb epithelial cell

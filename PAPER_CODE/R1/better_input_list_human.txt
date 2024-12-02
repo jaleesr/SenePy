@@ -1,0 +1,57 @@
+blood.erythrocyte
+blood.memory b cell
+blood.monocyte
+blood.naive b cell
+blood.neutrophil
+blood.nk cell
+blood.t cell
+bone marrow.t cell
+heart.adipocyte
+heart.cardiomyocyte
+heart.endothelial cell
+heart.fibroblast
+heart.lymphoid cell
+heart.myeloid cell
+heart.neuronal cell
+heart.pericyte
+heart.smooth muscle cell
+heart.unknown
+hippocampus.GABA interneuron
+hippocampus.astrocyte
+hippocampus.choroid plexus cells
+hippocampus.dentate granule cell
+hippocampus.endothelial cells
+hippocampus.ependymal cell
+hippocampus.excitatory neuron
+hippocampus.microglia
+hippocampus.oligodendrocyte
+hippocampus.oligodendrocyte precursor cell
+intestine.epithelial cell
+intestine.macrophage
+intestine.plasma cell
+intestine.unknown
+kidney.endothelial cell
+kidney.epithelial cell
+kidney.macrophage
+liver.endothelial cell
+liver.macrophage
+liver.monocyte
+liver.t cell
+lung.basal cell
+lung.ciliated epithelial cell
+lung.club cell
+lung.endothelial cell
+lung.fibroblast
+lung.macrophage
+lung.monocyte
+lung.t cell
+lung.type ii pneumocyte
+skin.basal cell
+skin.endothelial cell
+skin.fibroblast
+skin.granular cell
+skin.hair follicle
+skin.immune cell
+skin.mitotic cell
+skin.spinous cell
+tongue.basal cell

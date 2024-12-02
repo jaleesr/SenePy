@@ -1,0 +1,214 @@
+,tissue,cell_type_2,Class,gene,ending,gain,gene_count,cell_count,X,a_column,BH,nlogq
+0,Bladder,bladder urothelial cell,epithelial,Ccl8,6.79205851619644,5.7282287289624,7,20,Bladder_epithelial,Ccl8Bladder.bladder urothelial cell,5e-08,7.301029995663981
+1,Bladder,bladder urothelial cell,epithelial,Ccl5,5.60780215952629,5.07588726590927,7,20,Bladder_epithelial,Ccl5Bladder.bladder urothelial cell,5e-08,7.301029995663981
+2,Bladder,bladder cell,parenchymal,Ccl11,5.98540145985401,5.82641894793032,12,9,Bladder_parenchymal,Ccl11Bladder.bladder cell,3.992595048629532e-05,4.3987447361527945
+3,Bladder,bladder cell,parenchymal,Ifi204,5.25547445255474,4.77852691678367,12,6,Bladder_parenchymal,Ifi204Bladder.bladder cell,2.3485853227232536e-05,4.629193657531069
+4,Bladder,bladder cell,parenchymal,Ccl5,4.817518248175181,4.1815882004804195,12,20,Bladder_parenchymal,Ccl5Bladder.bladder cell,1.565723548482169e-05,4.80528491658675
+5,Diaphragm,mesenchymal stem cell,progenitor,Il1b,16.0377358490566,13.56860004658746,17,18,Diaphragm_progenitor,Il1bDiaphragm.mesenchymal stem cell,5e-08,7.301029995663981
+6,Diaphragm,mesenchymal stem cell,progenitor,Cxcl13,14.62264150943396,13.79959624194425,17,19,Diaphragm_progenitor,Cxcl13Diaphragm.mesenchymal stem cell,5e-08,7.301029995663981
+7,Diaphragm,skeletal muscle satellite cell,progenitor,Cxcl13,11.66666666666666,10.30612244897959,19,19,Diaphragm_progenitor,Cxcl13Diaphragm.skeletal muscle satellite cell,5e-08,7.301029995663981
+8,Diaphragm,mesenchymal stem cell,progenitor,Ccl9,10.84905660377358,9.202966068794161,17,13,Diaphragm_progenitor,Ccl9Diaphragm.mesenchymal stem cell,5e-08,7.301029995663981
+9,Diaphragm,mesenchymal stem cell,progenitor,Cxcr2,9.90566037735849,9.08261510986877,17,6,Diaphragm_progenitor,Cxcr2Diaphragm.mesenchymal stem cell,5e-08,7.301029995663981
+10,Diaphragm,skeletal muscle satellite cell,progenitor,Ccl9,9.72222222222222,6.77437641723356,19,13,Diaphragm_progenitor,Ccl9Diaphragm.skeletal muscle satellite cell,5e-08,7.301029995663981
+11,Diaphragm,skeletal muscle satellite cell,progenitor,Il1b,9.72222222222222,6.5476190476190395,19,18,Diaphragm_progenitor,Il1bDiaphragm.skeletal muscle satellite cell,5e-08,7.301029995663981
+12,Diaphragm,mesenchymal stem cell,progenitor,Csf2rb,8.96226415094339,8.55074151719854,17,15,Diaphragm_progenitor,Csf2rbDiaphragm.mesenchymal stem cell,5e-08,7.301029995663981
+13,Diaphragm,skeletal muscle satellite cell,progenitor,Ccl19,8.888888888888879,7.3015873015873005,19,6,Diaphragm_progenitor,Ccl19Diaphragm.skeletal muscle satellite cell,5e-08,7.301029995663981
+14,Diaphragm,skeletal muscle satellite cell,progenitor,Mmp23,8.611111111111109,6.570294784580499,19,10,Diaphragm_progenitor,Mmp23Diaphragm.skeletal muscle satellite cell,5e-08,7.301029995663981
+15,Diaphragm,skeletal muscle satellite cell,progenitor,Cxcr2,7.5,6.81972789115646,19,6,Diaphragm_progenitor,Cxcr2Diaphragm.skeletal muscle satellite cell,5e-08,7.301029995663981
+16,Diaphragm,mesenchymal stem cell,progenitor,Ccl19,7.0754716981132,6.25242643062349,17,6,Diaphragm_progenitor,Ccl19Diaphragm.mesenchymal stem cell,5e-08,7.301029995663981
+17,Diaphragm,skeletal muscle satellite cell,progenitor,Csf2rb,5.83333333333333,3.5657596371882,19,15,Diaphragm_progenitor,Csf2rbDiaphragm.skeletal muscle satellite cell,0.010708817552841221,1.9702584804871615
+18,Diaphragm,skeletal muscle satellite cell,progenitor,Mmp12,3.05555555555555,2.8287981859410403,19,7,Diaphragm_progenitor,Mmp12Diaphragm.skeletal muscle satellite cell,0.02348110643983264,1.6292814427995286
+19,Diaphragm,skeletal muscle satellite cell,progenitor,Ccl3,2.77777777777777,2.09750566893424,19,12,Diaphragm_progenitor,Ccl3Diaphragm.skeletal muscle satellite cell,0.04632185677188085,1.3342140406100644
+20,Fat,endothelial cell,endothelial,Tnf,12.288786482334869,7.7895121717398,9,8,Fat_endothelial,TnfFat.endothelial cell,5e-08,7.301029995663981
+21,Fat,endothelial cell,endothelial,Ccl11,11.05990783410138,7.72173657140181,9,9,Fat_endothelial,Ccl11Fat.endothelial cell,5e-08,7.301029995663981
+22,Fat,endothelial cell,endothelial,Ccl7,8.14132104454685,4.94828766283422,9,15,Fat_endothelial,Ccl7Fat.endothelial cell,5.308495746742758e-05,4.275028526270803
+23,Fat,endothelial cell,endothelial,Ccl8,7.21966205837173,6.49397265343704,9,20,Fat_endothelial,Ccl8Fat.endothelial cell,5e-08,7.301029995663981
+24,Fat,endothelial cell,endothelial,Cdkn2b,3.68663594470046,3.2512223017396398,9,16,Fat_endothelial,Cdkn2bFat.endothelial cell,0.001106317971357812,2.956120032742682
+25,Fat,endothelial cell,endothelial,Ccl19,1.84331797235023,1.69818009136329,9,6,Fat_endothelial,Ccl19Fat.endothelial cell,0.0186135996554317,1.73016963120465
+26,Fat,endothelial cell,endothelial,Cdkn2a,1.53609831029185,1.39096042930492,9,19,Fat_endothelial,Cdkn2aFat.endothelial cell,0.03223871100365081,1.4916223308617602
+27,Fat,mesenchymal stem cell,progenitor,Tgfb1,14.264036418816389,9.901779424980441,4,6,Fat_progenitor,Tgfb1Fat.mesenchymal stem cell,5e-08,7.301029995663981
+28,Fat,mesenchymal stem cell,progenitor,Ccl4,3.49013657056145,2.2573248114339,4,9,Fat_progenitor,Ccl4Fat.mesenchymal stem cell,0.001359206051068582,2.86671470069298
+29,Fat,mesenchymal stem cell,progenitor,Cdkn2a,1.97268588770864,1.26144833436583,4,19,Fat_progenitor,Cdkn2aFat.mesenchymal stem cell,0.018019188791308333,1.7442647644883957
+30,HSC,hematopoietic stem cell,progenitor,Ccl17,2.7195027195027097,1.88151389268707,2,7,HSC_progenitor,Ccl17HSC.hematopoietic stem cell,0.000998605225041575,3.000606165898787
+31,Heart_and_Aorta,endothelial cell,endothelial,Cxcl13,5.1881993896236,4.916460259188811,25,19,Heart_and_Aorta_endothelial,Cxcl13Heart_and_Aorta.endothelial cell,5e-08,7.301029995663981
+32,Heart_and_Aorta,endothelial cell,endothelial,Ccl8,3.91658189216683,3.64484276173205,25,20,Heart_and_Aorta_endothelial,Ccl8Heart_and_Aorta.endothelial cell,5e-08,7.301029995663981
+33,Heart_and_Aorta,endothelial cell,endothelial,Cdkn2b,3.7639877924720198,3.49224866203724,25,16,Heart_and_Aorta_endothelial,Cdkn2bHeart_and_Aorta.endothelial cell,5.171364834719124e-06,5.286394822097183
+34,Heart_and_Aorta,endothelial cell,endothelial,Tnf,3.4079348931841302,2.32097837144499,25,8,Heart_and_Aorta_endothelial,TnfHeart_and_Aorta.endothelial cell,0.00015267839035837413,3.816222427332848
+35,Heart_and_Aorta,endothelial cell,endothelial,Ccl4,2.5432349949135302,1.9997567340439601,25,9,Heart_and_Aorta_endothelial,Ccl4Heart_and_Aorta.endothelial cell,6.75150408977219e-05,4.1705994649287526
+36,Heart_and_Aorta,endothelial cell,endothelial,Cdkn2a,1.8311291963377399,1.55939006590295,25,19,Heart_and_Aorta_endothelial,Cdkn2aHeart_and_Aorta.endothelial cell,0.0002643142026634219,3.5778794998549333
+37,Heart_and_Aorta,endothelial cell,endothelial,Gdf15,1.7293997965411998,1.18592153567163,25,11,Heart_and_Aorta_endothelial,Gdf15Heart_and_Aorta.endothelial cell,0.0007688095720949098,3.114181218104703
+38,Heart_and_Aorta,myocyte,parenchymal,Ccl2,19.11764705882352,16.33986928104575,24,12,Heart_and_Aorta_parenchymal,Ccl2Heart_and_Aorta.myocyte,5e-08,7.301029995663981
+39,Heart_and_Aorta,myocyte,parenchymal,Ccl7,18.014705882352942,14.44327731092436,24,15,Heart_and_Aorta_parenchymal,Ccl7Heart_and_Aorta.myocyte,5e-08,7.301029995663981
+40,Heart_and_Aorta,myocyte,parenchymal,Cxcl13,15.0735294117647,14.6767040149393,24,19,Heart_and_Aorta_parenchymal,Cxcl13Heart_and_Aorta.myocyte,5e-08,7.301029995663981
+41,Heart_and_Aorta,myocyte,parenchymal,Mmp8,15.0735294117647,11.89892623716153,24,9,Heart_and_Aorta_parenchymal,Mmp8Heart_and_Aorta.myocyte,5e-08,7.301029995663981
+42,Heart_and_Aorta,myocyte,parenchymal,Mmp3,14.338235294117641,11.95728291316526,24,9,Heart_and_Aorta_parenchymal,Mmp3Heart_and_Aorta.myocyte,5e-08,7.301029995663981
+43,Heart_and_Aorta,myocyte,parenchymal,Ccl11,13.602941176470578,11.221988795518199,24,9,Heart_and_Aorta_parenchymal,Ccl11Heart_and_Aorta.myocyte,5e-08,7.301029995663981
+44,Heart_and_Aorta,endocardial cell,parenchymal,Ccl7,12.62626262626262,8.18181818181818,20,15,Heart_and_Aorta_parenchymal,Ccl7Heart_and_Aorta.endocardial cell,5e-08,7.301029995663981
+45,Heart_and_Aorta,myocyte,parenchymal,Ccl5,12.5,11.30952380952381,24,20,Heart_and_Aorta_parenchymal,Ccl5Heart_and_Aorta.myocyte,5e-08,7.301029995663981
+46,Heart_and_Aorta,myocyte,parenchymal,Il6,11.76470588235294,11.36788048552754,24,9,Heart_and_Aorta_parenchymal,Il6Heart_and_Aorta.myocyte,5e-08,7.301029995663981
+47,Heart_and_Aorta,endocardial cell,parenchymal,Cxcl13,10.6060606060606,8.82828282828282,20,19,Heart_and_Aorta_parenchymal,Cxcl13Heart_and_Aorta.endocardial cell,5e-08,7.301029995663981
+48,Heart_and_Aorta,endocardial cell,parenchymal,Cxcl2,9.59595959595959,6.92929292929292,20,7,Heart_and_Aorta_parenchymal,Cxcl2Heart_and_Aorta.endocardial cell,5e-08,7.301029995663981
+49,Heart_and_Aorta,endocardial cell,parenchymal,Ifi204,9.59595959595959,8.26262626262626,20,6,Heart_and_Aorta_parenchymal,Ifi204Heart_and_Aorta.endocardial cell,5e-08,7.301029995663981
+50,Heart_and_Aorta,endocardial cell,parenchymal,Il7,9.59595959595959,8.26262626262626,20,18,Heart_and_Aorta_parenchymal,Il7Heart_and_Aorta.endocardial cell,0.00867287846909125,2.0618367392285943
+51,Heart_and_Aorta,endocardial cell,parenchymal,Csf2rb,7.575757575757571,5.7979797979797905,20,15,Heart_and_Aorta_parenchymal,Csf2rbHeart_and_Aorta.endocardial cell,0.009288719996564715,2.032044128496018
+52,Heart_and_Aorta,endocardial cell,parenchymal,Ccl8,5.55555555555555,4.2222222222222205,20,20,Heart_and_Aorta_parenchymal,Ccl8Heart_and_Aorta.endocardial cell,5e-08,7.301029995663981
+53,Heart_and_Aorta,myocyte,parenchymal,Ccl8,4.77941176470588,4.38258636788048,24,20,Heart_and_Aorta_parenchymal,Ccl8Heart_and_Aorta.myocyte,5e-08,7.301029995663981
+54,Heart_and_Aorta,myocyte,parenchymal,Il7,4.77941176470588,4.38258636788048,24,18,Heart_and_Aorta_parenchymal,Il7Heart_and_Aorta.myocyte,0.030657163742688665,1.5134680265161071
+55,Heart_and_Aorta,endocardial cell,parenchymal,Cdkn2b,4.54545454545454,2.76767676767676,20,16,Heart_and_Aorta_parenchymal,Cdkn2bHeart_and_Aorta.endocardial cell,0.02615489429916828,1.582447030764846
+56,Heart_and_Aorta,endocardial cell,parenchymal,Il6,4.54545454545454,2.76767676767676,20,9,Heart_and_Aorta_parenchymal,Il6Heart_and_Aorta.endocardial cell,5e-08,7.301029995663981
+57,Heart_and_Aorta,endocardial cell,parenchymal,Ccl3,2.52525252525252,2.08080808080808,20,12,Heart_and_Aorta_parenchymal,Ccl3Heart_and_Aorta.endocardial cell,0.015453802224225667,1.810964650100377
+58,Heart_and_Aorta,fibroblast,stromal,Ccl8,18.20895522388059,16.70519582538435,17,20,Heart_and_Aorta_stromal,Ccl8Heart_and_Aorta.fibroblast,5e-08,7.301029995663981
+59,Heart_and_Aorta,fibroblast,stromal,Cxcl13,12.13930348258706,11.763363632963001,17,19,Heart_and_Aorta_stromal,Cxcl13Heart_and_Aorta.fibroblast,5e-08,7.301029995663981
+60,Heart_and_Aorta,fibroblast,stromal,Ccl9,10.24875621890547,8.36905697078517,17,13,Heart_and_Aorta_stromal,Ccl9Heart_and_Aorta.fibroblast,0.00021012062272111827,3.6775313207761027
+61,Heart_and_Aorta,fibroblast,stromal,Il18,9.75124378109452,8.623424232222341,17,6,Heart_and_Aorta_stromal,Il18Heart_and_Aorta.fibroblast,5e-08,7.301029995663981
+62,Heart_and_Aorta,fibroblast,stromal,Cxcl2,8.557213930348249,6.67751468222795,17,7,Heart_and_Aorta_stromal,Cxcl2Heart_and_Aorta.fibroblast,5e-08,7.301029995663981
+63,Heart_and_Aorta,fibroblast,stromal,Il7,5.273631840796019,4.89769199117195,17,18,Heart_and_Aorta_stromal,Il7Heart_and_Aorta.fibroblast,5e-08,7.301029995663981
+64,Heart_and_Aorta,fibroblast,stromal,Ccl4,4.67661691542288,4.30067706579882,17,9,Heart_and_Aorta_stromal,Ccl4Heart_and_Aorta.fibroblast,5e-08,7.301029995663981
+65,Heart_and_Aorta,fibroblast,stromal,Ccl12,1.89054726368159,1.51460741405753,17,9,Heart_and_Aorta_stromal,Ccl12Heart_and_Aorta.fibroblast,0.005643171360671416,2.2484767617334915
+66,Kidney,collecting duct principal cell,epithelial,Csf1,18.84422110552764,17.05850681981335,22,6,Kidney_epithelial,Csf1Kidney.collecting duct principal cell,0.0086101590811364,2.0649888244555816
+67,Kidney,collecting duct principal cell,epithelial,Cdkn2b,15.82914572864321,14.04343144292893,22,16,Kidney_epithelial,Cdkn2bKidney.collecting duct principal cell,5e-08,7.301029995663981
+68,Kidney,collecting duct epithelial cell,epithelial,Ccl5,14.34262948207171,13.6714885424744,24,20,Kidney_epithelial,Ccl5Kidney.collecting duct epithelial cell,5e-08,7.301029995663981
+69,Kidney,collecting duct principal cell,epithelial,Ccl8,12.06030150753768,11.46506341229959,22,20,Kidney_epithelial,Ccl8Kidney.collecting duct principal cell,5e-08,7.301029995663981
+70,Kidney,Henle thick ascending limb epithelial cell,epithelial,Gdf15,11.6504854368932,8.60700717602363,25,11,Kidney_epithelial,Gdf15Kidney.Henle thick ascending limb epithelial cell,5e-08,7.301029995663981
+71,Kidney,distal convoluted tubule epithelial cell,epithelial,Ccl5,10.20408163265306,9.404081632653059,13,20,Kidney_epithelial,Ccl5Kidney.distal convoluted tubule epithelial cell,5e-08,7.301029995663981
+72,Kidney,collecting duct principal cell,epithelial,Ccl5,10.0502512562814,9.45501316104331,22,20,Kidney_epithelial,Ccl5Kidney.collecting duct principal cell,5e-08,7.301029995663981
+73,Kidney,proximal convoluted tubule epithelial cell,epithelial,Ccl5,7.52314814814814,7.203318723841109,8,20,Kidney_epithelial,Ccl5Kidney.proximal convoluted tubule epithelial cell,5e-08,7.301029995663981
+74,Kidney,Henle thick ascending limb epithelial cell,epithelial,Ccl5,7.443365695792881,7.2259743914450505,25,20,Kidney_epithelial,Ccl5Kidney.Henle thick ascending limb epithelial cell,5e-08,7.301029995663981
+75,Kidney,collecting duct principal cell,epithelial,Plau,7.2864321608040195,6.69119406556592,22,6,Kidney_epithelial,PlauKidney.collecting duct principal cell,5e-08,7.301029995663981
+76,Kidney,epithelial cell of proximal tubule,epithelial,Ccl5,7.19131614654002,6.599600170208659,25,20,Kidney_epithelial,Ccl5Kidney.epithelial cell of proximal tubule,5e-08,7.301029995663981
+77,Kidney,collecting duct principal cell,epithelial,Cxcl10,6.78391959798995,4.99820531227566,22,12,Kidney_epithelial,Cxcl10Kidney.collecting duct principal cell,0.007423991155333286,2.129362554191166
+78,Kidney,collecting duct principal cell,epithelial,Il7,6.03015075376884,4.24443646805455,22,18,Kidney_epithelial,Il7Kidney.collecting duct principal cell,0.00850643899842289,2.070252208070043
+79,Kidney,epithelial cell of proximal tubule,epithelial,Ccl8,5.38218000904568,4.79046403271431,25,20,Kidney_epithelial,Ccl8Kidney.epithelial cell of proximal tubule,0.0034455255291892884,2.462744527886875
+80,Kidney,Henle thick ascending limb epithelial cell,epithelial,C3,4.85436893203883,4.41958632334318,25,6,Kidney_epithelial,C3Kidney.Henle thick ascending limb epithelial cell,0.023821573977823002,1.6230295464930524
+81,Kidney,Henle thick ascending limb epithelial cell,epithelial,Il1b,4.85436893203883,4.41958632334318,25,18,Kidney_epithelial,Il1bKidney.Henle thick ascending limb epithelial cell,0.0293604902979875,1.5322366963059488
+82,Kidney,proximal convoluted tubule epithelial cell,epithelial,Ccl8,4.2824074074074,4.17579759930506,8,20,Kidney_epithelial,Ccl8Kidney.proximal convoluted tubule epithelial cell,0.00011717644162717705,3.9311596946298004
+83,Kidney,Henle thick ascending limb epithelial cell,epithelial,Csf1,4.20711974110032,3.12016321936119,25,6,Kidney_epithelial,Csf1Kidney.Henle thick ascending limb epithelial cell,0.024007776267390694,1.6196480648295548
+84,Kidney,Henle thick ascending limb epithelial cell,epithelial,Ccl8,3.88349514563106,3.66610384128324,25,20,Kidney_epithelial,Ccl8Kidney.Henle thick ascending limb epithelial cell,0.027244816932315775,1.564716105930259
+85,Kidney,collecting duct principal cell,epithelial,Ccl12,3.7688442211055198,3.17360612586743,22,9,Kidney_epithelial,Ccl12Kidney.collecting duct principal cell,0.0240694236050775,1.6185343097304334
+86,Kidney,Henle thick ascending limb epithelial cell,epithelial,Lcp1,3.5598705501618104,2.2555227240748503,25,6,Kidney_epithelial,Lcp1Kidney.Henle thick ascending limb epithelial cell,0.03792197245322178,1.4211090815852474
+87,Kidney,collecting duct principal cell,epithelial,Tnf,3.26633165829145,2.67109356305336,22,8,Kidney_epithelial,TnfKidney.collecting duct principal cell,0.030823006879183688,1.5111249967876421
+88,Kidney,Henle thick ascending limb epithelial cell,epithelial,Mmp23,2.9126213592233,2.47783875052764,25,10,Kidney_epithelial,Mmp23Kidney.Henle thick ascending limb epithelial cell,0.039640803664240436,1.401857549358133
+89,Kidney,collecting duct principal cell,epithelial,Ccl7,2.76381909547738,2.16858100023929,22,15,Kidney_epithelial,Ccl7Kidney.collecting duct principal cell,0.046645783428535995,1.3311876084337635
+90,Kidney,Henle thick ascending limb epithelial cell,epithelial,Cd55,2.58899676375404,2.3716054594062097,25,7,Kidney_epithelial,Cd55Kidney.Henle thick ascending limb epithelial cell,0.038879442629442,1.4102799696895079
+91,Kidney,collecting duct principal cell,epithelial,Rps6ka5,2.51256281407035,1.91732471883225,22,6,Kidney_epithelial,Rps6ka5Kidney.collecting duct principal cell,0.04629714449504338,1.3344457944742532
+92,Kidney,proximal convoluted tubule epithelial cell,epithelial,Selplg,1.73611111111111,1.20306207059938,8,10,Kidney_epithelial,SelplgKidney.proximal convoluted tubule epithelial cell,0.02839735192495314,1.546722156361417
+93,Kidney,macrophage,immune,Ccl7,18.9873417721519,14.56745226938947,16,15,Kidney_immune,Ccl7Kidney.macrophage,5e-08,7.301029995663981
+94,Kidney,macrophage,immune,Cxcl13,13.01989150090416,11.91491912521355,16,19,Kidney_immune,Cxcl13Kidney.macrophage,5e-08,7.301029995663981
+95,Kidney,macrophage,immune,Gdf15,10.84990958408679,8.63996483270558,16,11,Kidney_immune,Gdf15Kidney.macrophage,5e-08,7.301029995663981
+96,Kidney,macrophage,immune,Cd55,8.679927667269439,7.5749552915788305,16,7,Kidney_immune,Cd55Kidney.macrophage,5e-08,7.301029995663981
+97,Kidney,macrophage,immune,Mmp8,7.41410488245931,5.7566463189234005,16,9,Kidney_immune,Mmp8Kidney.macrophage,5e-08,7.301029995663981
+98,Large_Intestine,enterocyte,epithelial,Tgfb1,4.26666666666666,3.0761904761904697,1,6,Large_Intestine_epithelial,Tgfb1Large_Intestine.enterocyte,2.0897045175372745e-06,5.679915118422562
+99,Limb_Muscle,endothelial cell,endothelial,Ifi204,19.256756756756747,14.86845888441633,1,6,Limb_Muscle_endothelial,Ifi204Limb_Muscle.endothelial cell,0.02452211574536437,1.610442062012649
+100,Limb_Muscle,macrophage,immune,Mmp8,12.04819277108433,11.06780061422159,6,9,Limb_Muscle_immune,Mmp8Limb_Muscle.macrophage,0.015433016020431855,1.8115491929884593
+101,Limb_Muscle,macrophage,immune,Cxcr2,4.21686746987951,2.90967792739585,6,6,Limb_Muscle_immune,Cxcr2Limb_Muscle.macrophage,0.03296537613187525,1.481941964632368
+102,Limb_Muscle,mesenchymal stem cell,progenitor,Cdkn2a,1.64728682170542,1.0955041391926899,2,19,Limb_Muscle_progenitor,Cdkn2aLimb_Muscle.mesenchymal stem cell,0.0003287357578483023,3.483153053473673
+103,Liver,endothelial cell of hepatic sinusoid,endothelial,Edn1,7.6190476190476195,6.27289377289377,23,7,Liver_endothelial,Edn1Liver.endothelial cell of hepatic sinusoid,5e-08,7.301029995663981
+104,Liver,endothelial cell of hepatic sinusoid,endothelial,Cdkn2a,3.8095238095238098,3.0402930402930397,23,19,Liver_endothelial,Cdkn2aLiver.endothelial cell of hepatic sinusoid,5e-08,7.301029995663981
+105,Liver,Kupffer cell,immune,Plau,13.17220543806646,12.032140291486659,21,6,Liver_immune,PlauLiver.Kupffer cell,5e-08,7.301029995663981
+106,Liver,Kupffer cell,immune,Mmp12,12.265861027190331,10.63719653207632,21,7,Liver_immune,Mmp12Liver.Kupffer cell,5e-08,7.301029995663981
+107,Liver,Kupffer cell,immune,Esm1,11.05740181268882,10.89453536317742,21,6,Liver_immune,Esm1Liver.Kupffer cell,5e-08,7.301029995663981
+108,Liver,Kupffer cell,immune,Rps6ka5,6.948640483383681,5.645708887292479,21,6,Liver_immune,Rps6ka5Liver.Kupffer cell,5e-08,7.301029995663981
+109,Liver,Kupffer cell,immune,Hgf,5.6797583081570995,4.53969316157729,21,6,Liver_immune,HgfLiver.Kupffer cell,5.536377255259558e-06,5.2567743242060585
+110,Liver,Kupffer cell,immune,Csf1,5.3776435045317195,4.72617770648611,21,6,Liver_immune,Csf1Liver.Kupffer cell,2.570460868513367e-06,5.589989003241441
+111,Liver,Kupffer cell,immune,Edn1,3.9879154078549797,3.82504895834358,21,7,Liver_immune,Edn1Liver.Kupffer cell,1.713640579008911e-05,4.766080262297122
+112,Liver,Kupffer cell,immune,Cdkn2a,2.11480362537764,1.95193717586624,21,19,Liver_immune,Cdkn2aLiver.Kupffer cell,0.0011058122656338002,2.956318597190253
+113,Liver,Kupffer cell,immune,Ccl22,1.81268882175226,1.64982237224086,21,8,Liver_immune,Ccl22Liver.Kupffer cell,0.002145633790426,2.668444399969733
+114,Liver,Kupffer cell,immune,Cdkn2b,1.26888217522658,1.10601572571518,21,16,Liver_immune,Cdkn2bLiver.Kupffer cell,0.007991562840207583,2.0973682811982752
+115,Liver,hepatocyte,parenchymal,Acvr1b,5.70175438596491,5.54966313121206,26,8,Liver_parenchymal,Acvr1bLiver.hepatocyte,8.033077377436503e-05,4.095118049738717
+116,Liver,hepatocyte,parenchymal,Cxcl13,4.8245614035087705,4.59642452137949,26,19,Liver_parenchymal,Cxcl13Liver.hepatocyte,4.0165386887182514e-05,4.396148045402699
+117,Liver,hepatocyte,parenchymal,Mmp24,3.28947368421052,3.13738242945767,26,6,Liver_parenchymal,Mmp24Liver.hepatocyte,0.0035331195679667144,2.4518416649060897
+118,Liver,hepatocyte,parenchymal,Bmp6,3.07017543859649,2.99412981122006,26,6,Liver_parenchymal,Bmp6Liver.hepatocyte,0.0033482312791231115,2.4751845507451433
+119,Liver,hepatocyte,parenchymal,Rps6ka5,3.07017543859649,2.08158228270295,26,6,Liver_parenchymal,Rps6ka5Liver.hepatocyte,0.004352467379046546,2.361264475156793
+120,Liver,hepatocyte,parenchymal,Cdkn2b,2.63157894736842,2.17530518310986,26,16,Liver_parenchymal,Cdkn2bLiver.hepatocyte,0.0046903130537492,2.328798169443021
+121,Liver,hepatocyte,parenchymal,Il1b,1.9736842105263102,1.82159295577346,26,18,Liver_parenchymal,Il1bLiver.hepatocyte,0.006820226141253786,2.1662012250106173
+122,Liver,hepatocyte,parenchymal,Ngf,1.09649122807017,1.02044560069374,26,7,Liver_parenchymal,NgfLiver.hepatocyte,0.03613405042434742,1.4420833537281736
+123,Lung,adventitial cell,parenchymal,Il7,8.44155844155844,7.276509897869119,17,18,Lung_parenchymal,Il7Lung.adventitial cell,5e-08,7.301029995663981
+124,Lung,adventitial cell,parenchymal,Ccl2,5.84415584415584,3.5140587567771995,17,12,Lung_parenchymal,Ccl2Lung.adventitial cell,5e-08,7.301029995663981
+125,Lung,adventitial cell,parenchymal,Ccl9,5.19480519480519,3.6414071365527603,17,13,Lung_parenchymal,Ccl9Lung.adventitial cell,5e-08,7.301029995663981
+126,Lung,adventitial cell,parenchymal,Cxcl13,5.19480519480519,3.6414071365527603,17,19,Lung_parenchymal,Cxcl13Lung.adventitial cell,5e-08,7.301029995663981
+127,Lung,adventitial cell,parenchymal,Cdkn2b,4.54545454545454,2.7978817299205603,17,16,Lung_parenchymal,Cdkn2bLung.adventitial cell,5e-08,7.301029995663981
+128,Lung,smooth muscle cell,parenchymal,Il7,3.89908256880734,3.58755608905656,9,18,Lung_parenchymal,Il7Lung.smooth muscle cell,0.000281019654112407,3.5512633050982236
+129,Lung,adventitial cell,parenchymal,Cxcl2,3.89610389610389,2.92523010969612,17,7,Lung_parenchymal,Cxcl2Lung.adventitial cell,5e-08,7.301029995663981
+130,Lung,adventitial cell,parenchymal,Csf2rb,2.59740259740259,2.01487832555793,17,15,Lung_parenchymal,Csf2rbLung.adventitial cell,5e-08,7.301029995663981
+131,Lung,adventitial cell,parenchymal,Cxcl10,2.59740259740259,1.8207035682763801,17,12,Lung_parenchymal,Cxcl10Lung.adventitial cell,5e-08,7.301029995663981
+132,Lung,fibroblast,stromal,Selplg,13.513513513513509,9.897161312255651,32,10,Lung_stromal,SelplgLung.fibroblast,5e-08,7.301029995663981
+133,Lung,fibroblast,stromal,Il6,10.81081081081081,8.216471188169299,32,9,Lung_stromal,Il6Lung.fibroblast,5e-08,7.301029995663981
+134,Lung,fibroblast,stromal,Mmp24,10.27027027027027,9.0910249872514,32,6,Lung_stromal,Mmp24Lung.fibroblast,5e-08,7.301029995663981
+135,Lung,fibroblast,stromal,Cxcl2,9.72972972972973,9.33664796872344,32,7,Lung_stromal,Cxcl2Lung.fibroblast,5e-08,7.301029995663981
+136,Lung,fibroblast,stromal,Ccl2,9.18918918918919,7.538245792962769,32,12,Lung_stromal,Ccl2Lung.fibroblast,5e-08,7.301029995663981
+137,Lung,fibroblast,stromal,Cxcl13,9.18918918918919,8.95334013258541,32,19,Lung_stromal,Cxcl13Lung.fibroblast,5e-08,7.301029995663981
+138,Lung,fibroblast,stromal,Ccl7,7.5675675675675595,6.07385687574366,32,15,Lung_stromal,Ccl7Lung.fibroblast,5e-08,7.301029995663981
+139,Lung,fibroblast,stromal,Lcp1,7.5675675675675595,5.680775114737379,32,6,Lung_stromal,Lcp1Lung.fibroblast,5e-08,7.301029995663981
+140,Lung,fibroblast,stromal,Ccl9,7.02702702702702,5.92639809620941,32,13,Lung_stromal,Ccl9Lung.fibroblast,5e-08,7.301029995663981
+141,Lung,fibroblast,stromal,Ccl11,5.4054054054054,3.75446200917899,32,9,Lung_stromal,Ccl11Lung.fibroblast,0.008773702648499214,2.05681708845219
+142,Lung,fibroblast,stromal,Ccl22,4.8648648648648605,4.7862485126636,32,8,Lung_stromal,Ccl22Lung.fibroblast,0.0027058102869985837,2.567702656444217
+143,Lung,fibroblast,stromal,Cxcl10,4.8648648648648605,3.68561958184599,32,12,Lung_stromal,Cxcl10Lung.fibroblast,0.008423691028499066,2.074497570962974
+144,Lung,fibroblast,stromal,Csf2rb,4.32432432432432,3.9312425633180297,32,15,Lung_stromal,Csf2rbLung.fibroblast,0.006895778199025538,2.1614167159316673
+145,Lung,fibroblast,stromal,Ccl17,3.24324324324324,3.08601053884072,32,7,Lung_stromal,Ccl17Lung.fibroblast,0.011211569624186263,1.9503335817491076
+146,Lung,fibroblast,stromal,Il1b,3.24324324324324,2.53569607343192,32,18,Lung_stromal,Il1bLung.fibroblast,0.0080143625353975,2.0961310158387496
+147,Lung,fibroblast,stromal,Mmp8,3.24324324324324,2.85016148223695,32,9,Lung_stromal,Mmp8Lung.fibroblast,0.013042517724086048,1.884638564422146
+148,Lung,fibroblast,stromal,Gdf15,2.7027027027027,2.30962094169641,32,11,Lung_stromal,Gdf15Lung.fibroblast,0.02063969894157575,1.6852966417815485
+149,Lung,fibroblast,stromal,Acvr1b,1.62162162162162,1.2285398606153302,32,8,Lung_stromal,Acvr1bLung.fibroblast,0.03615831869522254,1.4417917717354776
+150,Lymphoid,T cell,immune,Ccl4,15.915119363395219,12.09194134666882,9,9,Lymphoid_immune,Ccl4Lymphoid.T cell,5e-08,7.301029995663981
+151,Lymphoid,naive T cell,immune,Il1b,8.25242718446602,7.109570041608871,4,18,Lymphoid_immune,Il1bLymphoid.naive T cell,0.025290337054926428,1.5970453825923607
+152,Lymphoid,T cell,immune,Ccl3,7.32758620689655,6.25231738969225,9,12,Lymphoid_immune,Ccl3Lymphoid.T cell,5e-08,7.301029995663981
+153,Lymphoid,T cell,immune,Esm1,3.41511936339522,2.87748495479307,9,6,Lymphoid_immune,Esm1Lymphoid.T cell,5e-08,7.301029995663981
+154,Lymphoid,T cell,immune,Cdkn2a,2.9840848806366003,2.5061876285458,9,19,Lymphoid_immune,Cdkn2aLymphoid.T cell,5e-08,7.301029995663981
+155,Lymphoid,naive T cell,immune,Igfbp6,2.18446601941747,1.6130374479889,4,6,Lymphoid_immune,Igfbp6Lymphoid.naive T cell,0.007199257657080187,2.1427122830208
+156,Lymphoid,T cell,immune,Cxcl13,1.62466843501326,1.26624549594516,9,19,Lymphoid_immune,Cxcl13Lymphoid.T cell,5e-08,7.301029995663981
+157,Lymphoid,B cell,progenitor,Cdkn2a,1.39172388198181,1.25560772953172,2,19,Lymphoid_progenitor,Cdkn2aLymphoid.B cell,5e-08,7.301029995663981
+158,Mammary_Gland,luminal epithelial cell of mammary gland,epithelial,Mmp23,9.25925925925925,5.69938870909744,15,10,Mammary_Gland_epithelial,Mmp23Mammary_Gland.luminal epithelial cell of mammary gland,5e-08,7.301029995663981
+159,Mammary_Gland,luminal epithelial cell of mammary gland,epithelial,Cdkn2a,5.55555555555555,4.04530744336569,15,19,Mammary_Gland_epithelial,Cdkn2aMammary_Gland.luminal epithelial cell of mammary gland,6.249306403284874e-05,4.204168181366579
+160,Mammary_Gland,luminal epithelial cell of mammary gland,epithelial,Csf2rb,5.55555555555555,3.9374325782092696,15,15,Mammary_Gland_epithelial,Csf2rbMammary_Gland.luminal epithelial cell of mammary gland,6.707850898284813e-05,4.173416599430862
+161,Mammary_Gland,luminal epithelial cell of mammary gland,epithelial,Ccl19,3.39506172839506,2.3163130768308697,15,6,Mammary_Gland_epithelial,Ccl19Mammary_Gland.luminal epithelial cell of mammary gland,0.0011571042799536665,2.936627500021743
+162,Mammary_Gland,luminal epithelial cell of mammary gland,epithelial,Ccl12,3.08641975308641,2.11554596667865,15,9,Mammary_Gland_epithelial,Ccl12Mammary_Gland.luminal epithelial cell of mammary gland,0.001698514315835875,2.769930788351019
+163,Mammary_Gland,basal cell,epithelial,Ccl19,2.89621882542236,2.1386430678466,1,6,Mammary_Gland_epithelial,Ccl19Mammary_Gland.basal cell,0.0006719003789929616,3.1726951139415114
+164,Mammary_Gland,luminal epithelial cell of mammary gland,epithelial,Esm1,2.6234567901234502,1.9762075991849402,15,6,Mammary_Gland_epithelial,Esm1Mammary_Gland.luminal epithelial cell of mammary gland,0.0023116191321710003,2.6360837197421194
+165,Mammary_Gland,stromal cell,stromal,Cdkn2a,3.2675709001232995,2.7089116822462,1,19,Mammary_Gland_stromal,Cdkn2aMammary_Gland.stromal cell,0.0008456243854473944,3.072822501679177
+166,Myeloid,granulocyte,immune,Ccl5,13.74924288310115,10.432916352488899,2,20,Myeloid_immune,Ccl5Myeloid.granulocyte,5e-08,7.301029995663981
+167,Myeloid,monocyte,immune,Cxcl13,7.43621655258245,7.35703998884531,6,19,Myeloid_immune,Cxcl13Myeloid.monocyte,5e-08,7.301029995663981
+168,Myeloid,monocyte,immune,Cdkn2a,1.81497614602779,1.65662301855352,6,19,Myeloid_immune,Cdkn2aMyeloid.monocyte,0.00011245674740484428,3.9490144817776733
+169,Thymus,thymocyte,parenchymal,Cd55,12.094395280235979,9.18222994439756,9,7,Thymus_parenchymal,Cd55Thymus.thymocyte,5e-08,7.301029995663981
+170,Thymus,thymocyte,parenchymal,Ccl4,4.42477876106194,2.96869609314273,9,9,Thymus_parenchymal,Ccl4Thymus.thymocyte,5e-08,7.301029995663981
+171,Thymus,thymocyte,parenchymal,Cxcl10,3.1268436578171,2.09349466768089,9,12,Thymus_parenchymal,Cxcl10Thymus.thymocyte,4.905709380004906e-06,5.309298183483624
+172,Thymus,thymocyte,parenchymal,Il18,2.24188790560471,1.53733177596639,9,6,Thymus_parenchymal,Il18Thymus.thymocyte,8.155741844258155e-05,4.088536529508482
+173,Thymus,thymocyte,parenchymal,Ccl3,1.7109144542772798,1.2412103678517301,9,12,Thymus_parenchymal,Ccl3Thymus.thymocyte,0.00032966367033632963,3.4819289104297986
+174,Thymus,thymocyte,parenchymal,Ccl17,1.2979351032448299,1.06308306003206,9,7,Thymus_parenchymal,Ccl17Thymus.thymocyte,0.001158973841026159,2.9359263663023234
+175,Tongue,keratinocyte,parenchymal,Cdkn2a,7.78575372722252,7.4168861506825,24,19,Tongue_parenchymal,Cdkn2aTongue.keratinocyte,5e-08,7.301029995663981
+176,Tongue,keratinocyte,parenchymal,Tnf,5.96355604638321,4.22987843664511,24,8,Tongue_parenchymal,TnfTongue.keratinocyte,5e-08,7.301029995663981
+177,Tongue,keratinocyte,parenchymal,C3,4.33462175593594,4.07641445235793,24,6,Tongue_parenchymal,C3Tongue.keratinocyte,5e-08,7.301029995663981
+178,Tongue,keratinocyte,parenchymal,Ccl22,4.27940364439536,4.20563012908735,24,8,Tongue_parenchymal,Ccl22Tongue.keratinocyte,5e-08,7.301029995663981
+179,Tongue,keratinocyte,parenchymal,Cxcl13,3.2578685808945305,3.2209818232405296,24,19,Tongue_parenchymal,Cxcl13Tongue.keratinocyte,5e-08,7.301029995663981
+180,Tongue,keratinocyte,parenchymal,Il6,2.18111540585311,1.9229081022751,24,9,Tongue_parenchymal,Il6Tongue.keratinocyte,5e-08,7.301029995663981
+181,Tongue,keratinocyte,parenchymal,Ccl9,2.1535063500828198,2.11661959242882,24,13,Tongue_parenchymal,Ccl9Tongue.keratinocyte,5e-08,7.301029995663981
+182,Tongue,keratinocyte,parenchymal,Mmp3,2.12589729431253,2.08901053665853,24,9,Tongue_parenchymal,Mmp3Tongue.keratinocyte,5e-08,7.301029995663981
+183,Tongue,keratinocyte,parenchymal,Cxcl3,1.62893429044726,1.51827401748526,24,7,Tongue_parenchymal,Cxcl3Tongue.keratinocyte,8.359230557413162e-07,6.0778336962510044
+184,Tongue,keratinocyte,parenchymal,Ccl17,1.6013252346769697,1.23245765813695,24,7,Tongue_parenchymal,Ccl17Tongue.keratinocyte,1.5325256021924133e-06,5.814592261476423
+185,Tongue,keratinocyte,parenchymal,Mmp23,1.24240750966316,1.13174723670116,24,10,Tongue_parenchymal,Mmp23Tongue.keratinocyte,1.4063176114236261e-05,4.851916584500235
+186,Tongue,keratinocyte,parenchymal,Ccl5,1.18718939812258,1.15030264046858,24,20,Tongue_parenchymal,Ccl5Tongue.keratinocyte,2.6563777104668493e-05,4.575710172561286
+187,Tongue,keratinocyte,parenchymal,Csf2rb,1.1595803423522901,1.08580682704428,24,15,Tongue_parenchymal,Csf2rbTongue.keratinocyte,2.7585460839463437e-05,4.5593197563731165
+188,Trachea,macrophage,immune,Cxcl3,19.14893617021276,14.290636575071062,25,7,Trachea_immune,Cxcl3Trachea.macrophage,5e-08,7.301029995663981
+189,Trachea,macrophage,immune,Mmp3,13.82978723404255,13.627358084244982,25,9,Trachea_immune,Mmp3Trachea.macrophage,5e-08,7.301029995663981
+190,Trachea,macrophage,immune,Mmp23,9.57446808510638,8.7647514859161,25,10,Trachea_immune,Mmp23Trachea.macrophage,5e-08,7.301029995663981
+191,Trachea,macrophage,immune,Ccl11,8.51063829787234,7.70092169868205,25,9,Trachea_immune,Ccl11Trachea.macrophage,5e-08,7.301029995663981
+192,Trachea,macrophage,immune,Csf1,6.382978723404251,4.156258075630969,25,6,Trachea_immune,Csf1Trachea.macrophage,0.012434948339852418,1.9053560146372002
+193,Trachea,macrophage,immune,Cdkn2b,5.85106382978723,4.231630631406659,25,16,Trachea_immune,Cdkn2bTrachea.macrophage,0.012331080896232182,1.9089988531127493
+194,Trachea,macrophage,immune,Ccl8,4.78723404255319,3.9775174433629,25,20,Trachea_immune,Ccl8Trachea.macrophage,0.013505868191392077,1.869477493030646
+195,Trachea,fibroblast,stromal,Selplg,10.75,7.2285553047404,25,10,Trachea_stromal,SelplgTrachea.fibroblast,5e-08,7.301029995663981
+196,Trachea,fibroblast,stromal,Ccl8,10.0,7.426636568848751,25,20,Trachea_stromal,Ccl8Trachea.fibroblast,5e-08,7.301029995663981
+197,Trachea,fibroblast,stromal,Il7,9.75,6.68002257336343,25,18,Trachea_stromal,Il7Trachea.fibroblast,5e-08,7.301029995663981
+198,Trachea,fibroblast,stromal,Ccl22,9.0,8.63882618510158,25,8,Trachea_stromal,Ccl22Trachea.fibroblast,5e-08,7.301029995663981
+199,Trachea,fibroblast,stromal,Ccl9,8.5,6.42325056433408,25,13,Trachea_stromal,Ccl9Trachea.fibroblast,5e-08,7.301029995663981
+200,Trachea,fibroblast,stromal,Bmp6,7.249999999999999,5.76015801354401,25,6,Trachea_stromal,Bmp6Trachea.fibroblast,5e-08,7.301029995663981
+201,Trachea,fibroblast,stromal,Ccl5,6.75,5.44074492099322,25,20,Trachea_stromal,Ccl5Trachea.fibroblast,5e-08,7.301029995663981
+202,Trachea,fibroblast,stromal,Gdf15,6.0,4.3295711060948,25,11,Trachea_stromal,Gdf15Trachea.fibroblast,3.4852980847046126e-05,4.457760072370498
+203,Trachea,fibroblast,stromal,Il1b,5.5,3.7392776523702,25,18,Trachea_stromal,Il1bTrachea.fibroblast,9.454047436243282e-05,4.024382222929337
+204,Trachea,fibroblast,stromal,Lcp1,5.5,3.46839729119638,25,6,Trachea_stromal,Lcp1Trachea.fibroblast,0.00015985201741878298,3.796281878326817
+205,Trachea,fibroblast,stromal,Ccl3,5.25,4.48250564334085,25,12,Trachea_stromal,Ccl3Trachea.fibroblast,2.751551119503642e-05,4.560422414267646
+206,Trachea,fibroblast,stromal,Csf2rb,5.0,4.18735891647855,25,15,Trachea_stromal,Csf2rbTrachea.fibroblast,3.4394388993795525e-05,4.46351240125959
+207,Trachea,fibroblast,stromal,Mmp24,4.75,3.35045146726862,25,6,Trachea_stromal,Mmp24Trachea.fibroblast,0.00018114378203398974,3.7419765690248297
+208,Trachea,fibroblast,stromal,Cxcl3,3.5000000000000004,3.18397291196388,25,7,Trachea_stromal,Cxcl3Trachea.fibroblast,0.000251955759374157,3.5986757097994704
+209,Trachea,fibroblast,stromal,Ccl17,3.25,2.5276523702031604,25,7,Trachea_stromal,Ccl17Trachea.fibroblast,0.0009249073587659474,3.0339017651978653
+210,Trachea,fibroblast,stromal,Cdkn2a,2.5,1.59706546275395,25,19,Trachea_stromal,Cdkn2aTrachea.fibroblast,0.00484676557863492,2.3145479850982236
+211,Trachea,fibroblast,stromal,Mmp12,1.5,1.27426636568848,25,7,Trachea_stromal,Mmp12Trachea.fibroblast,0.011787169419216592,1.9285904742268993
+212,Myeloid,myloid progenitor,,Il1b,6.689453125,5.4518293626237595,2,18,,Il1bMyeloid.myloid progenitor,0.04799904185314876,1.3187674318336533
